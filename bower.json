@@ -1,0 +1,22 @@
+{
+  "name": "my_first_rotate_package",
+  "version": "0.0.1",
+  "authors": [
+    "Martin <martin.trajanovski@gmail.com>"
+  ],
+  "description": "Simple element rotate library",
+  "main": "rotate.js",
+  "moduleType": [],
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
